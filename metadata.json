@@ -1,0 +1,6 @@
+{
+  "name": "BazareX",
+  "description": "Premium full-stack e-commerce website for tech gadgets, electronics, and accessories, featuring a dynamic shopping experience and an integrated admin panel with inventory and order management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

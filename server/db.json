@@ -1,0 +1,620 @@
+{
+  "settings": {
+    "logo": "COD",
+    "favicon": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=128&q=80",
+    "seoTitle": "BazareX - Premium Electronics & Tech Accessories Store",
+    "seoDescription": "Discover high-end smartphones, premium laptops, mechanical keyboards, audiophile headphones, and elite smartwatches at BazareX.",
+    "contactEmail": "support@bazarex.com",
+    "contactPhone": "+880 1712-345678",
+    "contactAddress": "Level 12, Sona Tower, Gulshan-2, Dhaka, Bangladesh",
+    "facebookUrl": "https://facebook.com/bazarex",
+    "twitterUrl": "https://twitter.com/bazarex",
+    "instagramUrl": "https://instagram.com/bazarex",
+    "whatsappNumber": "+8801712345678",
+    "tiktokUrl": "https://tiktok.com/@bazarex",
+    "youtubeUrl": "https://youtube.com/@bazarex",
+    "shippingFlatRate": 116,
+    "taxPercentage": 4
+  },
+  "banners": [
+    {
+      "id": "b1",
+      "title": "The Sound of Purity",
+      "subtitle": "Sony WH-1000XM5 Active Noise Cancelling Headphones. Experience industry-leading silence and premium acoustics.",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=1200&q=80",
+      "link": "/shop?category=audio",
+      "type": "hero"
+    },
+    {
+      "id": "b2",
+      "title": "Pro Workflow Unleashed",
+      "subtitle": "MacBook Pro 16\" with M3 Max. Liquid Retina XDR display, up to 128GB unified memory, and 22-hour battery life.",
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=1200&q=80",
+      "link": "/shop?category=laptops",
+      "type": "hero"
+    },
+    {
+      "id": "b3",
+      "title": "Limitless Performance",
+      "subtitle": "Grab up to 20% Off on our best selling smartphone models this week only!",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=1200&q=80",
+      "link": "/shop?isFlashSale=true",
+      "type": "promo"
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat1",
+      "name": "Smartphones",
+      "slug": "smartphones",
+      "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=300&q=80"
+    },
+    {
+      "id": "cat2",
+      "name": "Laptops",
+      "slug": "laptops",
+      "image": "https://images.unsplash.com/photo-1496181130204-755241524eab?w=300&q=80"
+    },
+    {
+      "id": "cat3",
+      "name": "Audio",
+      "slug": "audio",
+      "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=300&q=80"
+    },
+    {
+      "id": "cat4",
+      "name": "Wearables",
+      "slug": "wearables",
+      "image": "https://images.unsplash.com/photo-1544256718-3bcf237f3974?w=300&q=80"
+    },
+    {
+      "id": "cat5",
+      "name": "Accessories",
+      "slug": "accessories",
+      "image": "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?w=300&q=80"
+    }
+  ],
+  "brands": [
+    {
+      "id": "br1",
+      "name": "Apple",
+      "slug": "apple",
+      "logo": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=100&q=80"
+    },
+    {
+      "id": "br2",
+      "name": "Samsung",
+      "slug": "samsung",
+      "logo": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=100&q=80"
+    },
+    {
+      "id": "br3",
+      "name": "Sony",
+      "slug": "sony",
+      "logo": "https://images.unsplash.com/photo-1591130219388-ae3a1ff2a736?w=100&q=80"
+    },
+    {
+      "id": "br4",
+      "name": "Keychron",
+      "slug": "keychron",
+      "logo": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=100&q=80"
+    },
+    {
+      "id": "br5",
+      "name": "Anker",
+      "slug": "anker",
+      "logo": "https://images.unsplash.com/photo-1563206767-5b18f218e8de?w=100&q=80"
+    }
+  ],
+  "products": [
+    {
+      "id": "p1",
+      "name": "iPhone 15 Pro Max - Titanium Gray",
+      "description": "Forged in titanium and featuring the groundbreaking A17 Pro chip, a customizable Action button, and the most powerful iPhone camera system ever.",
+      "sku": "AP-IP15PM-256-TG",
+      "brand": "Apple",
+      "category": "Smartphones",
+      "price": 139000,
+      "discountPrice": 132000,
+      "stock": 1,
+      "rating": 4.8,
+      "ratingsCount": 45,
+      "images": [
+        "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=600&q=80",
+        "https://images.unsplash.com/photo-1695048132959-1e3ff2ca1605?w=600&q=80"
+      ],
+      "variants": [
+        {
+          "name": "Storage",
+          "options": [
+            "256GB",
+            "512GB",
+            "1TB"
+          ]
+        },
+        {
+          "name": "Color",
+          "options": [
+            "Natural Titanium",
+            "Blue Titanium",
+            "Black Titanium"
+          ]
+        }
+      ],
+      "specifications": {
+        "Processor": "A17 Pro chip",
+        "Display": "6.7-inch Super Retina XDR OLED",
+        "Camera": "48MP Main + 12MP Ultra Wide + 12MP 5x Telephoto",
+        "Battery": "Up to 29 hours video playback",
+        "OS": "iOS 17"
+      },
+      "isFeatured": true,
+      "isFlashSale": true,
+      "isBestSeller": true,
+      "isNewArrival": true,
+      "status": "active"
+    },
+    {
+      "id": "p2",
+      "name": "Samsung Galaxy S24 Ultra",
+      "description": "Welcome to the era of mobile AI. With Galaxy S24 Ultra in your hands, you can unleash whole new levels of creativity, productivity and possibility.",
+      "sku": "SS-S24U-512-Y",
+      "brand": "Samsung",
+      "category": "Smartphones",
+      "price": 145000,
+      "discountPrice": 138000,
+      "stock": 7,
+      "rating": 4.9,
+      "ratingsCount": 38,
+      "images": [
+        "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=600&q=80",
+        "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600&q=80"
+      ],
+      "variants": [
+        {
+          "name": "Storage",
+          "options": [
+            "256GB",
+            "512GB"
+          ]
+        },
+        {
+          "name": "Color",
+          "options": [
+            "Titanium Yellow",
+            "Titanium Violet",
+            "Titanium Black"
+          ]
+        }
+      ],
+      "specifications": {
+        "Processor": "Snapdragon 8 Gen 3 for Galaxy",
+        "Display": "6.8-inch Dynamic AMOLED 2X",
+        "Camera": "200MP Main + 50MP + 12MP + 10MP Quad Camera",
+        "Battery": "5000mAh with 45W Fast Charging",
+        "Pen": "Embedded S-Pen"
+      },
+      "isFeatured": true,
+      "isFlashSale": false,
+      "isBestSeller": true,
+      "isNewArrival": true,
+      "status": "active"
+    },
+    {
+      "id": "p3",
+      "name": "Sony WH-1000XM5 Noise Cancelling Headphones",
+      "description": "Our industry-leading noise cancellation just took its biggest step forward. With four microphones on each earcup, ambient sound is captured even more accurately.",
+      "sku": "SO-WH1000XM5-B",
+      "brand": "Sony",
+      "category": "Audio",
+      "price": 38500,
+      "discountPrice": 34900,
+      "stock": 25,
+      "rating": 4.7,
+      "ratingsCount": 112,
+      "images": [
+        "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&q=80",
+        "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=600&q=80"
+      ],
+      "variants": [
+        {
+          "name": "Color",
+          "options": [
+            "Midnight Black",
+            "Platinum Silver"
+          ]
+        }
+      ],
+      "specifications": {
+        "Battery Life": "Up to 30 hours (ANC ON)",
+        "Charging Time": "Quick charge (3 min for 3 hours)",
+        "Noise Cancelling": "Auto NC Optimizer & dual processor",
+        "Connection": "Bluetooth 5.2, Multipoint Connection",
+        "Weight": "250g"
+      },
+      "isFeatured": true,
+      "isFlashSale": true,
+      "isBestSeller": true,
+      "isNewArrival": false,
+      "status": "active"
+    },
+    {
+      "id": "p4",
+      "name": "Keychron Q1 QMK Custom Mechanical Keyboard",
+      "description": "A fully customizable 75% layout mechanical keyboard with a solid CNC machined aluminum body, gasket mount, and hot-swappable switches.",
+      "sku": "KC-Q1-HOTSWAP",
+      "brand": "Keychron",
+      "category": "Accessories",
+      "price": 18500,
+      "discountPrice": 17500,
+      "stock": 5,
+      "rating": 4.6,
+      "ratingsCount": 29,
+      "images": [
+        "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?w=600&q=80",
+        "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600&q=80"
+      ],
+      "variants": [
+        {
+          "name": "Switch Type",
+          "options": [
+            "Gateron G Pro Red",
+            "Gateron G Pro Brown",
+            "Gateron G Pro Blue"
+          ]
+        },
+        {
+          "name": "Color",
+          "options": [
+            "Carbon Black",
+            "Silver Grey",
+            "Navy Blue"
+          ]
+        }
+      ],
+      "specifications": {
+        "Layout": "75% Compact",
+        "Body Material": "CNC Anodized Aluminum",
+        "Connectivity": "Wired Type-C",
+        "Switches": "Hot-swappable 3pin/5pin",
+        "Software": "QMK / VIA compatible"
+      },
+      "isFeatured": false,
+      "isFlashSale": false,
+      "isBestSeller": false,
+      "isNewArrival": true,
+      "status": "active"
+    },
+    {
+      "id": "p5",
+      "name": "Apple Watch Series 9 GPS",
+      "description": "A smarter, brighter, mightier Apple Watch. Features the S9 SiP, a magical new way to use your watch without touching the screen, and double the brightness.",
+      "sku": "AP-W9-GPS-45",
+      "brand": "Apple",
+      "category": "Wearables",
+      "price": 49500,
+      "discountPrice": 46000,
+      "stock": 15,
+      "rating": 4.7,
+      "ratingsCount": 34,
+      "images": [
+        "https://images.unsplash.com/photo-1544256718-3bcf237f3974?w=600&q=80",
+        "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?w=600&q=80"
+      ],
+      "variants": [
+        {
+          "name": "Size",
+          "options": [
+            "41mm",
+            "45mm"
+          ]
+        },
+        {
+          "name": "Band Style",
+          "options": [
+            "Midnight Sport Band",
+            "Starlight Sport Loop",
+            "Blue Ocean Band"
+          ]
+        }
+      ],
+      "specifications": {
+        "Processor": "S9 SiP",
+        "Display": "Always-On Retina display, up to 2000 nits",
+        "Sensors": "Blood Oxygen, ECG, Temperature sensing",
+        "Battery": "Up to 18 hours (36 hours in Low Power Mode)",
+        "Water Resistance": "Swimproof (50m WR)"
+      },
+      "isFeatured": true,
+      "isFlashSale": true,
+      "isBestSeller": false,
+      "isNewArrival": true,
+      "status": "active"
+    },
+    {
+      "id": "p6",
+      "name": "Anker Prime 20,000mAh Power Bank (200W)",
+      "description": "Ultra-high capacity power bank with lightning-fast 200W multi-port output, real-time smart digital display, and heavy-duty battery protection.",
+      "sku": "AK-PRIME-20K-200W",
+      "brand": "Anker",
+      "category": "Accessories",
+      "price": 12500,
+      "discountPrice": 11000,
+      "stock": 2,
+      "rating": 4.5,
+      "ratingsCount": 78,
+      "images": [
+        "https://images.unsplash.com/photo-1563206767-5b18f218e8de?w=600&q=80",
+        "https://images.unsplash.com/photo-1620283085439-39620a1e21c4?w=600&q=80"
+      ],
+      "specifications": {
+        "Capacity": "20,000 mAh",
+        "Max Output": "200W Total (100W per USB-C)",
+        "Ports": "2 x USB-C, 1 x USB-A",
+        "Display": "TFT Smart Digital Display",
+        "Recharging Time": "Full charge in 1 hour 15 mins (with 100W input)"
+      },
+      "isFeatured": false,
+      "isFlashSale": false,
+      "isBestSeller": true,
+      "isNewArrival": false,
+      "status": "active"
+    },
+    {
+      "name": "csJCKJSCKJ",
+      "description": "wqrwqrwqrwqr",
+      "sku": "ssd",
+      "brand": "Apple",
+      "category": "Smartphones",
+      "price": 334324,
+      "discountPrice": 30000,
+      "stock": 44555,
+      "images": [
+        "https://www.google.com/search?sca_esv=f967d21789f2a175&sxsrf=APpeQnvFmQjKtELzpAW8wlSj7vhr_Ye7yA:1784067110288&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832UgltsGVIAFz5WDq3ETuldE5s6R40x0T8qn57d7tYDuVqsAet8sR_s-_VxWsmTsOBogQSDYgV-jZqog8mDjpMSk6icoa5MdBlkAGsqLMGxJPx9hGuKlnVkJTgyP5v9w93IzoaiXAbnJXfLFcgQOI2vKL-4D--LJ-2oYoEQLK2ZvckPL7Aw&q=gadget&sa=X&ved=2ahUKEwj7yPTyl9OVAxXn4zgGHYBQH18QtKgLegQIFhAB&biw=1280&bih=593&dpr=1.5#sv=CAMSURoyKhBlLUM3NW5SdVBSX05oeThNMg5DNzVuUnVQUl9OaHk4TToOMktMLVF4N2dhU3RRS00gBCoXCgFzEhBlLUM3NW5SdVBSX05oeThNGAEwARgHIIf_pLYBSggQARgBIAEoAQ"
+      ],
+      "specifications": {
+        "Warranty": "1 Year"
+      },
+      "isFeatured": false,
+      "isFlashSale": false,
+      "isBestSeller": false,
+      "isNewArrival": true,
+      "status": "active",
+      "id": "p_6ec2nepvn",
+      "rating": 5,
+      "ratingsCount": 0
+    }
+  ],
+  "coupons": [
+    {
+      "id": "c1",
+      "code": "WELCOME10",
+      "discountType": "percentage",
+      "value": 10,
+      "minPurchase": 1000,
+      "expiryDate": "2026-12-31",
+      "usageLimit": 100,
+      "usageCount": 15
+    },
+    {
+      "id": "c2",
+      "code": "BAZAREX500",
+      "discountType": "fixed",
+      "value": 500,
+      "minPurchase": 5000,
+      "expiryDate": "2026-09-30",
+      "usageLimit": 50,
+      "usageCount": 8
+    }
+  ],
+  "orders": [
+    {
+      "id": "o1",
+      "invoiceNo": "BX-2026-10001",
+      "customerName": "Anamul Matubber",
+      "customerEmail": "matubberanamul001@gmail.com",
+      "customerPhone": "+8801700000000",
+      "shippingAddress": "Dhanmondi, Dhaka, Bangladesh",
+      "paymentMethod": "bkash",
+      "paymentStatus": "paid",
+      "orderStatus": "delivered",
+      "items": [
+        {
+          "productId": "p3",
+          "name": "Sony WH-1000XM5 Noise Cancelling Headphones",
+          "price": 34900,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&q=80",
+          "selectedVariant": "Midnight Black"
+        }
+      ],
+      "subtotal": 34900,
+      "discount": 500,
+      "couponCode": "BAZAREX500",
+      "shippingCost": 100,
+      "tax": 1720,
+      "total": 36220,
+      "createdAt": "2026-07-12T11:20:00Z"
+    },
+    {
+      "id": "o2",
+      "invoiceNo": "BX-2026-10002",
+      "customerName": "Kazi Mahbub",
+      "customerEmail": "kazi@yahoo.com",
+      "customerPhone": "+8801811223344",
+      "shippingAddress": "Mirpur, Dhaka",
+      "paymentMethod": "cod",
+      "paymentStatus": "pending",
+      "orderStatus": "pending",
+      "items": [
+        {
+          "productId": "p6",
+          "name": "Anker Prime 20,000mAh Power Bank (200W)",
+          "price": 11000,
+          "quantity": 2,
+          "image": "https://images.unsplash.com/photo-1563206767-5b18f218e8de?w=600&q=80"
+        }
+      ],
+      "subtotal": 22000,
+      "discount": 0,
+      "shippingCost": 100,
+      "tax": 1100,
+      "total": 23200,
+      "createdAt": "2026-07-14T10:05:00Z"
+    },
+    {
+      "customerName": "Anamul Matubber",
+      "customerEmail": "matubberanamul001@gmail.com",
+      "customerPhone": "+8801700000000",
+      "shippingAddress": "Dhanmondi, Dhaka, Bangladesh",
+      "paymentMethod": "cod",
+      "paymentStatus": "pending",
+      "orderStatus": "pending",
+      "items": [
+        {
+          "productId": "p1",
+          "name": "iPhone 15 Pro Max - Titanium Gray",
+          "price": 132000,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=600&q=80",
+          "selectedVariant": "Storage: 256GB, Color: Natural Titanium"
+        },
+        {
+          "productId": "p2",
+          "name": "Samsung Galaxy S24 Ultra",
+          "price": 138000,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=600&q=80",
+          "selectedVariant": "Storage: 256GB, Color: Titanium Yellow"
+        }
+      ],
+      "subtotal": 270000,
+      "discount": 0,
+      "shippingCost": 100,
+      "tax": 13500,
+      "total": 283600,
+      "id": "o_1e8ty4s9d",
+      "invoiceNo": "BX-2026-10003",
+      "createdAt": "2026-07-14T22:07:51.551Z"
+    },
+    {
+      "customerName": "BazareX Admin",
+      "customerEmail": "admin@bazarex.com",
+      "customerPhone": "+8801911111111",
+      "shippingAddress": "BazareX Headquarters, Dhaka",
+      "paymentMethod": "cod",
+      "paymentStatus": "pending",
+      "orderStatus": "pending",
+      "items": [
+        {
+          "productId": "p6",
+          "name": "Anker Prime 20,000mAh Power Bank (200W)",
+          "price": 11000,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1563206767-5b18f218e8de?w=600&q=80"
+        }
+      ],
+      "subtotal": 11000,
+      "discount": 0,
+      "shippingCost": 100,
+      "tax": 550,
+      "total": 11650,
+      "id": "o_avvvyjndw",
+      "invoiceNo": "BX-2026-10004",
+      "createdAt": "2026-07-14T22:15:38.282Z"
+    },
+    {
+      "customerName": "Md Anamul Matubbor",
+      "customerEmail": "matubberanamul001@gmail.com",
+      "customerPhone": "01813000350",
+      "shippingAddress": "dhaka",
+      "paymentMethod": "cod",
+      "paymentStatus": "pending",
+      "orderStatus": "pending",
+      "items": [
+        {
+          "productId": "p1",
+          "name": "iPhone 15 Pro Max - Titanium Gray",
+          "price": 132000,
+          "quantity": 9,
+          "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=600&q=80",
+          "selectedVariant": "Storage: 256GB, Color: Natural Titanium"
+        },
+        {
+          "productId": "p1",
+          "name": "iPhone 15 Pro Max - Titanium Gray",
+          "price": 132000,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=600&q=80",
+          "selectedVariant": "Storage: 1TB, Color: Black Titanium"
+        }
+      ],
+      "subtotal": 1320000,
+      "discount": 0,
+      "shippingCost": 116,
+      "tax": 52800,
+      "total": 1372916,
+      "id": "o_kc5qztdgp",
+      "invoiceNo": "BX-2026-10005",
+      "createdAt": "2026-07-14T22:33:36.579Z"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "r1",
+      "productId": "p1",
+      "productName": "iPhone 15 Pro Max - Titanium Gray",
+      "userName": "Imran Khan",
+      "userEmail": "imran@gmail.com",
+      "rating": 5,
+      "comment": "Absolute beast of a phone! The titanium finish feels premium and the camera zoom is incredibly crisp.",
+      "reply": "Thank you Imran! Glad you are loving the Premium Titanium build.",
+      "isApproved": true,
+      "createdAt": "2026-07-01T10:00:00Z"
+    },
+    {
+      "id": "r2",
+      "productId": "p3",
+      "productName": "Sony WH-1000XM5 Noise Cancelling Headphones",
+      "userName": "Sadia Rahman",
+      "userEmail": "sadia@outlook.com",
+      "rating": 4,
+      "comment": "Noise cancellation is world class. Comfort is good but the headband feels a bit thinner than XM4. Sound signature is brilliant.",
+      "isApproved": true,
+      "createdAt": "2026-07-05T14:30:00Z"
+    },
+    {
+      "id": "r3",
+      "productId": "p2",
+      "productName": "Samsung Galaxy S24 Ultra",
+      "userName": "Kazi Mahbub",
+      "userEmail": "kazi@yahoo.com",
+      "rating": 5,
+      "comment": "The anti-reflective screen coating is a game-changer. Galaxy AI features like Circle to Search are actually highly useful daily.",
+      "isApproved": false,
+      "createdAt": "2026-07-12T08:15:00Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "u1",
+      "name": "BazareX Admin",
+      "email": "admin@bazarex.com",
+      "phone": "+8801911111111",
+      "address": "BazareX Headquarters, Dhaka",
+      "role": "admin",
+      "createdAt": "2026-06-01T00:00:00Z",
+      "passwordHash": "admin123"
+    },
+    {
+      "id": "u2",
+      "name": "Anamul Matubber",
+      "email": "matubberanamul001@gmail.com",
+      "phone": "+8801700000000",
+      "address": "Dhanmondi, Dhaka, Bangladesh",
+      "role": "customer",
+      "createdAt": "2026-07-10T12:00:00Z",
+      "passwordHash": "user123"
+    }
+  ]
+}
